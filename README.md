@@ -1,2 +1,2 @@
 # testrepo
-Trial repository
+This is a trial repository
